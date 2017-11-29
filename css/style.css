@@ -16,9 +16,13 @@
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
   padding-bottom: 200px;
+  background-color: #418E53;
+  margin: 0;
 }
 h1, h2, h3 {
   font-family: "Montserrat", "sans-serif";
+  color: white;
+
 }
 
 
