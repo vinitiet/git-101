@@ -1,0 +1,21 @@
+.banner{
+	height:100vh;
+	background: linear-gradient(-225deg, rgba(107, 107, 107, 0.4) 40%, rgba(121, 92, 92, 0.67) 80%), url(http://unsplash.it/400/300/?random);
+	background-size: cover;
+	color:white;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+
+}
+
+.banner h1{
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+.banner p{
+	font-size: 30px;
+	font-weight: lighter; 
+}
